@@ -1,5 +1,8 @@
 instances:
-  - url: https://humanloop.docs.buildwithfern.com
+  - url: humanloop.docs.buildwithfern.com/docs
+    # custom-domain:
+    #   - fern.humanloop.com/docs
+    #   - humanloop.com/docs
 title: Humanloop
 favicon: ./assets/favicon.svg
 versions:
